@@ -14,15 +14,15 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Build Docker Image') {
             steps {
-                echo "Building FastAPI app..."
+                sh "docker build -t ${APP_NAME}:latest ."
             }
         }
 
-        stage('Test') {
+        stage('Deploy') {
             steps {
-                echo "Running tests..."
+                sh "echo Deploying ${APP_NAME}..."
             }
         }
     }
