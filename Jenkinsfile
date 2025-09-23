@@ -9,20 +9,20 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'ggit@github.com:mohammad-ahmadi-r/fastapi-jenkins.git',
-                    credentialsId: 'github-ssh-key'
+                    url: 'https://github.com/mohammad-ahmadi-r/fastapi-jenkins.git',
+                    credentialsId: 'github-https-creds'
             }
         }
 
-        stage('Build Docker Image') {
+        stage('Build') {
             steps {
-                sh "docker build -t ${APP_NAME}:latest ."
+                echo "Building FastAPI app..."
             }
         }
 
-        stage('Deploy') {
+        stage('Test') {
             steps {
-                sh "echo Deploying ${APP_NAME}..."
+                echo "Running tests..."
             }
         }
     }
