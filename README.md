@@ -1,12 +1,15 @@
 ## Fastapi with jenkins
 
 This project is a FastAPI application with a Dockerfile and a Jenkinsfile for automated CI/CD. Jenkins will use the Jenkinsfile to build, test, and deploy the application in a containerized environment.
+
 ---
 
 ## Features
 
 ✅ FastAPI backend application.
+
 ✅ Dockerized for easy deployment.
+
 ✅ Jenkins pipeline integration (Jenkinsfile) for CI/CD:
 
 	Build Docker image.
@@ -14,6 +17,7 @@ This project is a FastAPI application with a Dockerfile and a Jenkinsfile for au
 	Deploy container.
 
 ✅ Supports GitHub integration for automated builds.
+
 ---
 
 ## Prerequisites
@@ -21,6 +25,7 @@ This project is a FastAPI application with a Dockerfile and a Jenkinsfile for au
 Docker installed on the target machine.(https://docs.docker.com/engine/install)
 Jenkins server with Docker permissions.(https://github.com/mohammad-ahmadi-r/ansible-jcasc.git)
 GitHub repository containing this project.
+
 ---
 
 ## Securing
@@ -36,6 +41,7 @@ Here we have:
 	```bash
 		credentialsId: 'github-https-creds'
 	```
+
 ---
 
 ## Jenkins pipeline
@@ -51,6 +57,7 @@ Checkout code from GitHub.
 Build Docker image.
 
 Run tests and/or deploy.
+
 ---
 
 ## Triggering Builds
