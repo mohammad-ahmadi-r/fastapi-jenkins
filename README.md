@@ -22,9 +22,9 @@ This project is a FastAPI application with a Dockerfile and a Jenkinsfile for au
 
 ## Prerequisites
 
-Docker installed on the target machine.(https://docs.docker.com/engine/install)
-Jenkins server with Docker permissions.(https://github.com/mohammad-ahmadi-r/ansible-jcasc.git)
-GitHub repository containing this project.
+- Docker installed on the target machine.(https://docs.docker.com/engine/install)
+- Jenkins server with Docker permissions.(https://github.com/mohammad-ahmadi-r/ansible-jcasc.git)
+- GitHub repository containing this project.
 
 ---
 
