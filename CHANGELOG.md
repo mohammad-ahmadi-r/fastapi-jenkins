@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.1...v0.1.2) (2025-10-15)
+
+
+### Bug Fixes
+
+* igonred node_modules ([f4cbd5a](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/f4cbd5aa01144dc2beca12d7b28d917c484e2291))
+
 ## [0.1.1](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.0...v0.1.1) (2025-10-15)
 
 
