@@ -1,0 +1,12 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "This project is a FastAPI application with a Dockerfile and a Jenkinsfile for automated CI/CD. Jenkins will use the Jenkinsfile to build, test, and deploy the application in a containerized environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
