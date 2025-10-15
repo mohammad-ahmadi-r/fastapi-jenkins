@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.3...v0.1.4) (2025-10-15)
+
+
+### Bug Fixes
+
+* test semantic uninstallation ([c7c67dc](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/c7c67dca38e55712393ed2c0302121e721028796))
+
 ## [0.1.3](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.2...v0.1.3) (2025-10-15)
 
 
