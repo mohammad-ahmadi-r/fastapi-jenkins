@@ -1,3 +1,12 @@
+## [0.1.1](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.0...v0.1.1) (2025-10-15)
+
+
+### Bug Fixes
+
+* added node_modules ([8b98bce](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/8b98bcee5002018a3998ffcafe2f03aafb7b8de4))
+* deleted node_modules ([ddc74a7](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/ddc74a7d726ca1ed21068cebc810aa727ff00d65))
+* deleted node_modules ([95cc72e](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/95cc72e92f60aed2d799297f70009a1c08a55c7d))
+
 # [0.1.0](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.0.0...v0.1.0) (2025-10-15)
 
 
