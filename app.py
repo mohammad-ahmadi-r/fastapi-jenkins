@@ -14,7 +14,7 @@ def read_root():
             <h1>Welcome to My FastAPI App!</h1>
             <p>This is a simple landing page.</p>
             <p>This is a semantic release<p>
-            <p>Now this is major release<p>
+            <p>Now this is Breaking release<p>
         </body>
     </html>
     """
