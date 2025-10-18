@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.4...v1.0.0) (2025-10-18)
+
+
+### Features
+
+* test ([d29ed44](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/commit/d29ed447bf2e2b09e32b61668c6c1696f3ef7680))
+
+
+### BREAKING CHANGES
+
+* tag p added
+
 ## [0.1.4](https://github.com/mohammad-ahmadi-r/fastapi-jenkins/compare/v0.1.3...v0.1.4) (2025-10-15)
 
 
